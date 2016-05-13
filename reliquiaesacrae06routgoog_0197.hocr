@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reliquiaesacrae06routgoog_0197.png"; bbox 0 0 3917 6467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1554 2718 2507 2895">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1554 2718 2507 2895">
+     <span class='ocr_line' id='line_1_1' title="bbox 1554 2718 2507 2895; baseline -0.001 -48"><span class='ocrx_word' id='word_1_1' title='bbox 1554 2787 1594 2842; x_wconf 73' lang='lat' dir='ltr'><strong>‘z</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1629 2793 1744 2837; x_wconf 51' lang='lat'><strong>1⁴5*-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1638 2718 2507 2895; x_wconf 44' lang='lat' dir='ltr'><strong>“ffffm3wzw</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1874 2861 2420 2922">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1874 2861 2420 2922">
+     <span class='ocr_line' id='line_1_2' title="bbox 1874 2861 2420 2922; baseline 0.006 -20"><span class='ocrx_word' id='word_1_4' title='bbox 1874 2873 1923 2893; x_wconf 48' lang='lat' dir='ltr'><strong>*n</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1968 2878 2040 2922; x_wconf 50' lang='lat' dir='ltr'><strong>„ss</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2064 2878 2078 2897; x_wconf 85' lang='grc'><strong>·.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2251 2905 2281 2914; x_wconf 71' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2295 2861 2420 2922; x_wconf 50' lang='lat'><strong>5⁴24}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 590 800 3332 5494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 590 800 3332 5494">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 800 3332 5494; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 590 800 3332 5494; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
